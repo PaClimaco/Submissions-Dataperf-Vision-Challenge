@@ -16,5 +16,5 @@ This GitHub repository contains two Python scripts, each implementing an algorit
 To successfully run the Python scripts in this repository, you should execute them within the context of the [Datapef-Vision-Challenge GitHub repository](https://github.com/CoactiveAI/dataperf-vision-selection). This requirement is essential because the scripts depends on other shared resources within the challenge repository.
 
 ## Slides and Report
-In the repository Slides and Report are the slides summarizing the two developed approaches. For a more in-depth explanation of the developed algorithms, look and the report I wrote on the challenge, where I also provide additional information about my experience with the challenge.
+In the repository Slides and Report are the slides summarizing the two developed approaches. For a more in-depth explanation of the developed algorithms, look and the report I wrote, where I also provide additional information about my experience with the challenge.
 
