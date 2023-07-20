@@ -3,7 +3,7 @@
 This GitHub repository contains two Python scripts, each implementing an algorithm submitted for the [Datapef-Vision-Challenge (Beta Version)](https://www.dataperf.org/training-set-selection-vision). The challenge aims to solve problems related to computer vision and data-centric approaches.
 
 
-## fpscv: Winning Algorithm
+## fpscv: Winning Approach
 
 `fpscv.py` contains the code of the algorithm that won the  Datapef-Vision-Challenge (Beta Version).
 
